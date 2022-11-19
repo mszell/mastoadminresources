@@ -11,6 +11,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * Move Mastodon account between instances: [https://mstdn.social/@feditips/107939441820299376](https://mstdn.social/@feditips/107939441820299376)
 
 ## Technical
+* Running your server (fedi.tips): [https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/](https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/)
 * Example donations page: [https://opencollective.com/ecoevosocial](https://opencollective.com/ecoevosocial)
 * Notes on scaling: [https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/)
 * Custom CSS Publish/Perish: [https://toot.andr3.net/@me/109348060869838278](https://toot.andr3.net/@me/109348060869838278)

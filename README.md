@@ -30,4 +30,5 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * Mass-add blocklist (hack): [https://github.com/hachyderm/hack](https://github.com/hachyderm/hack)
 
 ## Misc
+* User ID Lookup: [https://prouser123.me/mastodon-userid-lookup/](https://prouser123.me/mastodon-userid-lookup/)
 * [Quick tip from puma/ruby dev](https://datasci.social/@evanphx@ruby.social/109365852435757184): set `WEB_CONCURRENCY` to core count * 1.5 and then tune `MAX_THREADS`. High thread values will see diminishing returns!

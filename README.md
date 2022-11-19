@@ -23,6 +23,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 
 ## Moderation
 * Example social docs: [https://alxsimon.github.io/ecoevo.social-docs/](https://alxsimon.github.io/ecoevo.social-docs/)
+* Example community management (hachyderm): [https://github.com/hachyderm/community](https://github.com/hachyderm/community)
 * Running an instance: [https://rixx.de/blog/on-running-a-mastodon-instance/](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * Blog post: [https://eev.ee/blog/2016/07/22/on-a-technicality/](https://eev.ee/blog/2016/07/22/on-a-technicality/)
 * Defederate tools: [https://github.com/Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate)
@@ -32,3 +33,4 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 ## Misc
 * User ID Lookup: [https://prouser123.me/mastodon-userid-lookup/](https://prouser123.me/mastodon-userid-lookup/)
 * [Quick tip from puma/ruby dev](https://datasci.social/@evanphx@ruby.social/109365852435757184): set `WEB_CONCURRENCY` to core count * 1.5 and then tune `MAX_THREADS`. High thread values will see diminishing returns!
+* Emoji list: [https://emojos.in/](https://emojos.in/)

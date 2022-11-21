@@ -4,6 +4,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 ## Transition from Twitter
 * Twitter archive parser: [https://github.com/timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser)
 * Twitter archive URL extractor: [https://github.com/mhucka/taupe](https://github.com/mhucka/taupe)
+* Twitter archive URL unshortener: [https://github.com/DocNow/twitter-archive-unshorten](https://github.com/DocNow/twitter-archive-unshorten)
 * Twitter archive interactive explorer: [https://observablehq.com/@enjalot/twitter-archive-tweets](https://observablehq.com/@enjalot/twitter-archive-tweets)
 
 ## General

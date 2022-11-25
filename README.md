@@ -20,6 +20,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 ## Legal
 * Germany: [https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/](https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/)
 * EU/GDPR: [https://techpolicy.press/can-mastodon-survive-europes-digital-services-act/](https://techpolicy.press/can-mastodon-survive-europes-digital-services-act/)
+* EU/DSA: [https://r.algorithmwatch.org/nl3/s0puvOqTh8sH4ZdLtomVHQ](https://r.algorithmwatch.org/nl3/s0puvOqTh8sH4ZdLtomVHQ)
 * US/DMCA: [https://twitter.com/rahaeli/status/1593819064161665024](https://twitter.com/rahaeli/status/1593819064161665024) [https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)
 
 ## Moderation

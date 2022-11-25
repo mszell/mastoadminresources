@@ -23,6 +23,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * US/DMCA: [https://twitter.com/rahaeli/status/1593819064161665024](https://twitter.com/rahaeli/status/1593819064161665024) [https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)
 
 ## Moderation
+* The thick skin 🦣 guide to online community management: [communityguide.md](communityguide.md)
 * Example social docs: [https://alxsimon.github.io/ecoevo.social-docs/](https://alxsimon.github.io/ecoevo.social-docs/)
 * Example community management (hachyderm): [https://github.com/hachyderm/community](https://github.com/hachyderm/community)
 * Running an instance: [https://rixx.de/blog/on-running-a-mastodon-instance/](https://rixx.de/blog/on-running-a-mastodon-instance/)

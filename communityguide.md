@@ -34,6 +34,8 @@ Apart from the “throwaway” death threats, there are the more “serious” o
 
 Then there are the suicide threats; expect them in around the same frequency. “I have a gun with me, and if you don’t change [that one game feature] I will kill myself” - somebody in Russia. These things happen, and you must remain strong. Yes, have empathy, but also be reasonable: Don't open yourself up to manipulation. Do not take part in any discussion that feels disingenuous in the slightest. Stand above that.
 
+Unfortunately, you can safely assume that formal institutions will not be helpful with your problems. For example, reporting your issues to police is likely [a waste of time](https://www.youtube.com/watch?v=Xdm8SG8_v0I) in the best case, and in the worst case [the police itself will victim-blame you publicly](https://www.theguardian.com/world/2022/aug/02/austria-doctors-demand-more-protection-lisa-maria-kellermayr-death). Apart from a few [specialized/self-organized points of help](https://gameshotline.org/), expect to be on your own. A support network around you can then be a failsafe.
+
 Finally, sometimes people really die. How to deal with that? Can you turn a profile into a memoriam? (Mastodon has this option). Will there be an “online funeral”, and will you take part? If not, why not? Will you be flexible enough to accommodate strong wishes from your community about its deceased members, for example to immortalize an important member’s name? And then why not another member who dies later? Expect such conundrums.
 
 ## To interact or not interact, and decentralization

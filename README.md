@@ -16,7 +16,6 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * Running your server (fedi.tips): [https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/](https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/)
 * Example donations page: [https://opencollective.com/ecoevosocial](https://opencollective.com/ecoevosocial)
 * Notes on scaling: [https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/)
-* Custom CSS Publish/Perish: [https://toot.andr3.net/@me/109348060869838278](https://toot.andr3.net/@me/109348060869838278)
 
 ## Legal
 * Germany: [https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/](https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/)
@@ -38,5 +37,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 
 ## Misc
 * User ID Lookup: [https://prouser123.me/mastodon-userid-lookup/](https://prouser123.me/mastodon-userid-lookup/)
+* Mastodon widget: [https://github.com/mengrru/mastodon-on-blog](https://github.com/mengrru/mastodon-on-blog)
 * [Quick tip from puma/ruby dev](https://datasci.social/@evanphx@ruby.social/109365852435757184): set `WEB_CONCURRENCY` to core count * 1.5 and then tune `MAX_THREADS`. High thread values will see diminishing returns!
 * Emoji list: [https://emojos.in/](https://emojos.in/)
+* Custom CSS Publish/Perish: [https://toot.andr3.net/@me/109348060869838278](https://toot.andr3.net/@me/109348060869838278)

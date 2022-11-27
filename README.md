@@ -10,6 +10,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 ## General
 * 10 tips to start making your server: [https://growyourown.services/making-your-own-mastodon-server-in-10-steps/](https://growyourown.services/making-your-own-mastodon-server-in-10-steps/)
 * Move Mastodon account between instances: [https://mstdn.social/@feditips/107939441820299376](https://mstdn.social/@feditips/107939441820299376)
+* The Fediverse Could Be Awesome (EFF): [https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 
 ## Technical
 * Running your server (fedi.tips): [https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/](https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/)
@@ -25,6 +26,8 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 
 ## Moderation
 * The thick skin 🦣 guide to online community management: [communityguide.md](communityguide.md)
+* Democratic governance: [https://wiki.social.coop/How-to-make-the-fediverse-your-own.html](https://wiki.social.coop/How-to-make-the-fediverse-your-own.html)
+* Santa Clara Principles: [https://santaclaraprinciples.org/](https://santaclaraprinciples.org/)
 * Example social docs: [https://alxsimon.github.io/ecoevo.social-docs/](https://alxsimon.github.io/ecoevo.social-docs/)
 * Example community management (hachyderm): [https://github.com/hachyderm/community](https://github.com/hachyderm/community)
 * Running an instance: [https://rixx.de/blog/on-running-a-mastodon-instance/](https://rixx.de/blog/on-running-a-mastodon-instance/)

@@ -31,6 +31,8 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * Example community management (hachyderm): [https://github.com/hachyderm/community](https://github.com/hachyderm/community)
 * Running an instance: [https://rixx.de/blog/on-running-a-mastodon-instance/](https://rixx.de/blog/on-running-a-mastodon-instance/)
 * Blog post: [https://eev.ee/blog/2016/07/22/on-a-technicality/](https://eev.ee/blog/2016/07/22/on-a-technicality/)
+* Blocklists: [https://writer.oliphant.social/oliphant/new-mastoadmin-ban-list-fediblock](https://writer.oliphant.social/oliphant/new-mastoadmin-ban-list-fediblock)
+* Rapidblock: [https://rapidblock.org/](https://rapidblock.org/)
 * Defederate tools: [https://github.com/Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate)
 * Mass-add blocklist (experimental): [https://mastodon-tools.dingelstad.works/](https://mastodon-tools.dingelstad.works/)
 * Mass-add blocklist (hack): [https://github.com/hachyderm/hack](https://github.com/hachyderm/hack)

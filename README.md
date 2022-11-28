@@ -11,6 +11,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * 10 tips to start making your server: [https://growyourown.services/making-your-own-mastodon-server-in-10-steps/](https://growyourown.services/making-your-own-mastodon-server-in-10-steps/)
 * Move Mastodon account between instances: [https://mstdn.social/@feditips/107939441820299376](https://mstdn.social/@feditips/107939441820299376)
 * The Fediverse Could Be Awesome (EFF): [https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
+* Run your own social: [https://runyourown.social/](https://runyourown.social/)
 
 ## Technical
 * Running your server (fedi.tips): [https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/](https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/)

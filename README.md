@@ -16,6 +16,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 ## Technical
 * Running your server (fedi.tips): [https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/](https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/)
 * Example donations page: [https://opencollective.com/ecoevosocial](https://opencollective.com/ecoevosocial)
+* Scaling Mastodon: The Compendium: [https://hazelweakly.me/blog/scaling-mastodon/](https://hazelweakly.me/blog/scaling-mastodon/)
 * Notes on scaling: [https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/)
 
 ## Legal

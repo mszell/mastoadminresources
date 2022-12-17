@@ -2,6 +2,7 @@
 Resources for Mastodon admins. Feel free to fork or update via pull request.
  
 ## Transition from Twitter
+* Posting Mastodon links on Twitter: [https://spacekaren.sucks/](https://spacekaren.sucks/) [https://legit-elephant.lol/@yourhandle@yourinstance]([https://legit-elephant.lol/@yourhandle@yourinstance])
 * Twitter archive parser: [https://github.com/timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser)
 * Twitter archive URL extractor: [https://github.com/mhucka/taupe](https://github.com/mhucka/taupe)
 * Twitter archive URL unshortener: [https://github.com/DocNow/twitter-archive-unshorten](https://github.com/DocNow/twitter-archive-unshorten)
@@ -27,10 +28,10 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 
 
 ## Legal
-* Germany: [https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/](https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/)
 * EU/GDPR: [https://techpolicy.press/can-mastodon-survive-europes-digital-services-act/](https://techpolicy.press/can-mastodon-survive-europes-digital-services-act/)
 * EU/DSA: [https://r.algorithmwatch.org/nl3/s0puvOqTh8sH4ZdLtomVHQ](https://r.algorithmwatch.org/nl3/s0puvOqTh8sH4ZdLtomVHQ)
 * US/DMCA: [https://twitter.com/rahaeli/status/1593819064161665024](https://twitter.com/rahaeli/status/1593819064161665024) [https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)
+* German law: [https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/](https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/)
 * English law: [https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view](https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view)
 
 ## Moderation
@@ -50,6 +51,6 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 ## Misc
 * User ID Lookup: [https://prouser123.me/mastodon-userid-lookup/](https://prouser123.me/mastodon-userid-lookup/)
 * Mastodon widget: [https://github.com/mengrru/mastodon-on-blog](https://github.com/mengrru/mastodon-on-blog)
-* [Quick tip from puma/ruby dev](https://datasci.social/@evanphx@ruby.social/109365852435757184): set `WEB_CONCURRENCY` to core count * 1.5 and then tune `MAX_THREADS`. High thread values will see diminishing returns!
+* Dev tips: [Quick tip from puma/ruby dev](https://datasci.social/@evanphx@ruby.social/109365852435757184)
 * Emoji list: [https://emojos.in/](https://emojos.in/)
 * Custom CSS Publish/Perish: [https://toot.andr3.net/@me/109348060869838278](https://toot.andr3.net/@me/109348060869838278)

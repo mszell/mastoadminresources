@@ -8,6 +8,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * Twitter archive URL unshortener: [https://github.com/DocNow/twitter-archive-unshorten](https://github.com/DocNow/twitter-archive-unshorten)
 * Twitter archive interactive explorer: [https://observablehq.com/@enjalot/twitter-archive-tweets](https://observablehq.com/@enjalot/twitter-archive-tweets)
 * Tweetbeaver: [https://tweetbeaver.com/](https://tweetbeaver.com/)
+* Mastodon apps comparison: [https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/htmlview?pru=AAABhWk7754\*atX6yG9T-pm2uu3RweN-HA](https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/htmlview?pru=AAABhWk7754*atX6yG9T-pm2uu3RweN-HA)
 
 ## General
 * 10 tips to start making your server: [https://growyourown.services/making-your-own-mastodon-server-in-10-steps/](https://growyourown.services/making-your-own-mastodon-server-in-10-steps/)
@@ -15,24 +16,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * The Fediverse Could Be Awesome (EFF): [https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 * Run your own social: [https://runyourown.social/](https://runyourown.social/)
 * Nikodemus'Guide to Mastodon: [https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view](https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view)
-
-## Technical
-* Running your server (fedi.tips): [https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/](https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/)
-* Example donations page: [https://opencollective.com/ecoevosocial](https://opencollective.com/ecoevosocial)
-* Scaling Mastodon: The Compendium: [https://hazelweakly.me/blog/scaling-mastodon/](https://hazelweakly.me/blog/scaling-mastodon/)
-* Notes on scaling: [https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/)
-* Leaving the basement (scaling): [https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
-* Scaling the Mastodon: [https://leah.is/posts/scaling-the-mastodon/](https://leah.is/posts/scaling-the-mastodon/)
-* Integrate LibreTranslate in Mastodon (German): [https://blog.jcs-net.de/libretranslate-in-mastodon-einbinden/](https://blog.jcs-net.de/libretranslate-in-mastodon-einbinden/)
-* FakeRelay - Load statuses into your instance:  [https://github.com/g3rv4/FakeRelay](https://github.com/g3rv4/FakeRelay) [https://notes.abhinavsarkar.net/2022/fake-relay](https://notes.abhinavsarkar.net/2022/fake-relay)
-
-
-## Legal
-* EU/GDPR: [https://techpolicy.press/can-mastodon-survive-europes-digital-services-act/](https://techpolicy.press/can-mastodon-survive-europes-digital-services-act/)
-* EU/DSA: [https://r.algorithmwatch.org/nl3/s0puvOqTh8sH4ZdLtomVHQ](https://r.algorithmwatch.org/nl3/s0puvOqTh8sH4ZdLtomVHQ)
-* US/DMCA: [https://twitter.com/rahaeli/status/1593819064161665024](https://twitter.com/rahaeli/status/1593819064161665024) [https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)
-* German law: [https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/](https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/)
-* English law: [https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view](https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view)
+* FediAct browser extension to simplify interactions: [https://github.com/Lartsch/FediAct](https://github.com/Lartsch/FediAct)
 
 ## Moderation
 * The thick skin 🦣 guide to online community management: [communityguide.md](communityguide.md)
@@ -47,6 +31,25 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * Defederate tools: [https://github.com/Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate)
 * Mass-add blocklist (experimental): [https://mastodon-tools.dingelstad.works/](https://mastodon-tools.dingelstad.works/)
 * Mass-add blocklist (hack): [https://github.com/hachyderm/hack](https://github.com/hachyderm/hack)
+
+## Technical
+* Running your server (fedi.tips): [https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/](https://fedi.tips/running-your-own-server-on-mastodon-and-the-fediverse/)
+* Example donations page: [https://opencollective.com/ecoevosocial](https://opencollective.com/ecoevosocial)
+* Scaling Mastodon: The Compendium: [https://hazelweakly.me/blog/scaling-mastodon/](https://hazelweakly.me/blog/scaling-mastodon/)
+* Notes on scaling: [https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/](https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/)
+* Leaving the basement (scaling): [https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
+* Scaling the Mastodon: [https://leah.is/posts/scaling-the-mastodon/](https://leah.is/posts/scaling-the-mastodon/)
+* Set up DeepL Translation: [https://write.as/sweetmeat/how-to-activate-the-mastodon-v4-deepl-api-text-translation-service](https://write.as/sweetmeat/how-to-activate-the-mastodon-v4-deepl-api-text-translation-service)
+* Integrate LibreTranslate (German): [https://blog.jcs-net.de/libretranslate-in-mastodon-einbinden/](https://blog.jcs-net.de/libretranslate-in-mastodon-einbinden/)
+* FakeRelay - Load statuses into your instance:  [https://github.com/g3rv4/FakeRelay](https://github.com/g3rv4/FakeRelay) [https://notes.abhinavsarkar.net/2022/fake-relay](https://notes.abhinavsarkar.net/2022/fake-relay)
+
+## Legal
+* EU/GDPR: [https://techpolicy.press/can-mastodon-survive-europes-digital-services-act/](https://techpolicy.press/can-mastodon-survive-europes-digital-services-act/)
+* EU/DSA: [https://r.algorithmwatch.org/nl3/s0puvOqTh8sH4ZdLtomVHQ](https://r.algorithmwatch.org/nl3/s0puvOqTh8sH4ZdLtomVHQ)
+* US/DMCA: [https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer](https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer)
+* German law: [https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/](https://rechtsbelehrung.com/mastodon-und-haftung-fuer-dezentrale-netzwerke-rechtsbelehrung-folge-60-jura-podcast/)
+* English law: [https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view](https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view)
+
 
 ## Misc
 * User ID Lookup: [https://prouser123.me/mastodon-userid-lookup/](https://prouser123.me/mastodon-userid-lookup/)

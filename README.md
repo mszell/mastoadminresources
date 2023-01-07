@@ -2,11 +2,12 @@
 Resources for Mastodon admins. Feel free to fork or update via pull request.
  
 ## Transition from Twitter
-* Posting Mastodon links on Twitter: [https://spacekaren.sucks/](https://spacekaren.sucks/) [https://legit-elephant.lol/@yourhandle@yourinstance]([https://legit-elephant.lol/@yourhandle@yourinstance])
+* Movetodon (find Twitter connections): [https://movetodon.org/](https://movetodon.org/)
 * Twitter archive parser: [https://github.com/timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser)
 * Twitter archive URL extractor: [https://github.com/mhucka/taupe](https://github.com/mhucka/taupe)
 * Twitter archive URL unshortener: [https://github.com/DocNow/twitter-archive-unshorten](https://github.com/DocNow/twitter-archive-unshorten)
 * Twitter archive interactive explorer: [https://observablehq.com/@enjalot/twitter-archive-tweets](https://observablehq.com/@enjalot/twitter-archive-tweets)
+* Twitter searchable archive maker: [https://tinysubversions.com/twitter-archive/make-your-own/](https://tinysubversions.com/twitter-archive/make-your-own/)
 * Tweetbeaver: [https://tweetbeaver.com/](https://tweetbeaver.com/)
 * Mastodon apps comparison: [https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/htmlview?pru=AAABhWk7754\*atX6yG9T-pm2uu3RweN-HA](https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/htmlview?pru=AAABhWk7754*atX6yG9T-pm2uu3RweN-HA)
 

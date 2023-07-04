@@ -9,10 +9,13 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * Twitter archive interactive explorer: [https://observablehq.com/@enjalot/twitter-archive-tweets](https://observablehq.com/@enjalot/twitter-archive-tweets)
 * Twitter searchable archive maker: [https://tinysubversions.com/twitter-archive/make-your-own/](https://tinysubversions.com/twitter-archive/make-your-own/)
 * Tweetbeaver: [https://tweetbeaver.com/](https://tweetbeaver.com/)
+* Mastodon contact finder (Followgraph): [https://followgraph.vercel.app/](https://followgraph.vercel.app/)
+* Mastodon opt-in search (Tootfinder): [https://www.tootfinder.ch/](https://www.tootfinder.ch/)
 * Mastodon apps comparison: [https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/htmlview?pru=AAABhWk7754\*atX6yG9T-pm2uu3RweN-HA](https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/htmlview?pru=AAABhWk7754*atX6yG9T-pm2uu3RweN-HA)
 
 ## General
 * 10 tips to start making your server: [https://growyourown.services/making-your-own-mastodon-server-in-10-steps/](https://growyourown.services/making-your-own-mastodon-server-in-10-steps/)
+* Awesome Fedi Admin Resources: [https://codeberg.org/nev/awesome-fediadmin/](https://codeberg.org/nev/awesome-fediadmin/)
 * Move Mastodon account between instances: [https://mstdn.social/@feditips/107939441820299376](https://mstdn.social/@feditips/107939441820299376)
 * The Fediverse Could Be Awesome (EFF): [https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 * Run your own social: [https://runyourown.social/](https://runyourown.social/)

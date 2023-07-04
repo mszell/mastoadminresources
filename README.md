@@ -19,7 +19,7 @@ Resources for Mastodon admins. Feel free to fork or update via pull request.
 * Move Mastodon account between instances: [https://mstdn.social/@feditips/107939441820299376](https://mstdn.social/@feditips/107939441820299376)
 * The Fediverse Could Be Awesome (EFF): [https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it](https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it)
 * Run your own social: [https://runyourown.social/](https://runyourown.social/)
-* Nikodemus'Guide to Mastodon: [https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view](https://decoded.legal/blog/2022/11/notes-on-operating-fediverse-services-mastodon-pleroma-etc-from-an-english-law-point-of-view)
+* Nikodemus' Guide to Mastodon: [https://docs.google.com/document/d/1D9gfeKg_-hlsU66R-dLEvUeyMsqEfyIx2pnfUeX0t_E/edit](https://docs.google.com/document/d/1D9gfeKg_-hlsU66R-dLEvUeyMsqEfyIx2pnfUeX0t_E/edit)
 * FediAct browser extension to simplify interactions: [https://github.com/Lartsch/FediAct](https://github.com/Lartsch/FediAct)
 
 ## Moderation
